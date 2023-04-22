@@ -1,0 +1,16 @@
+{
+  "toDoList": [
+    {
+      "task": "Feed the Dog",
+      "id": 1
+    },
+    {
+      "task": "Wash the dishes",
+      "id": 2
+    },
+    {
+      "task": "Clean Bathroom",
+      "id": 3
+    }
+  ]
+}
